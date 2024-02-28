@@ -13,7 +13,7 @@ foi desenvolvido a versão mobile e desktop.
 </div>
 <br>
 <br>
-<strong>Resultado:</strong>
+<strong>Resultado: Desktop / Mobile</strong>
 <div style="display: inline-block">
-<img src="https://github.com/devcarlosfilho/project2-responsive-we-care-linha-comando/blob/master/assets/desktop_result.png" alt="desktop_resultado" width="70%"/><img src="https://github.com/devcarlosfilho/project2-responsive-we-care-linha-comando/blob/master/assets/mobile_result.png" alt="mobile_resultado" width="22%"/>
+<img src="https://github.com/devcarlosfilho/project2-responsive-we-care-linha-comando/blob/master/assets/desktop_result.png" alt="desktop_resultado" width="70%"/> <img src="https://github.com/devcarlosfilho/project2-responsive-we-care-linha-comando/blob/master/assets/mobile_result_mockup_iphone.png" alt="mobile_resultado" width="25%"/>
 </div>
